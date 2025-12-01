@@ -1,0 +1,2 @@
+# Advent of Code 2025 Solutions
+This repository contains my solutions for the Advent of Code 2025 event. It serves as a record of my problem-solving journey and reflections as this is my first time actively participating Advent of Code event.
