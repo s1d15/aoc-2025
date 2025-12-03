@@ -9,3 +9,6 @@ This repository contains my solutions for the Advent of Code 2025 event. It serv
 - [**Day 2**](https://github.com/s1d15/aoc-2025/tree/main/day-2)
     1. [Part 1](https://github.com/s1d15/aoc-2025/blob/main/day-2/part-1.py)
     2. [Part 2](https://github.com/s1d15/aoc-2025/blob/main/day-2/part-2.py)
+- [**Day 3**](https://github.com/s1d15/aoc-2025/tree/main/day-3)
+    1. [Part 1](https://github.com/s1d15/aoc-2025/blob/main/day-3/part-1.py)
+    2. [Part 2](https://github.com/s1d15/aoc-2025/blob/main/day-3/part-2.py)
