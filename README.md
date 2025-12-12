@@ -34,3 +34,5 @@ This repository contains my solutions for the Advent of Code 2025 event. It serv
 - [**Day 11**](https://github.com/s1d15/Advent-of-Code-2025/tree/main/day-11)
     1. [Part 1](https://github.com/s1d15/Advent-of-Code-2025/blob/main/day-11/part-1.py)
     2. [Part 2](https://github.com/s1d15/Advent-of-Code-2025/blob/main/day-11/part-2.py)
+- [**Day 12**](https://github.com/s1d15/Advent-of-Code-2025/tree/main/day-12)
+    1. [Part 1](https://github.com/s1d15/Advent-of-Code-2025/blob/main/day-12/part-1.py)
